@@ -11,6 +11,9 @@ format:
 number-sections: true
 bibliography: bes-bibliography.bib
 csl: methods-in-ecology-and-evolution.csl
+nocite: |
+  @zobitzSupportingCodeData2025
+  @zobitzNeonSoilFlux2025
 ---
 
 # Abstract
